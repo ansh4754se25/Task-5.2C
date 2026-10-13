@@ -169,4 +169,4 @@ exit_button.pack(pady=5)
 window.protocol("WM_DELETE_WINDOW", cleanup) 
  
 # Start the GUI 
-window.mainloop()           keep the code length same just change something it not look same
+window.mainloop()        
